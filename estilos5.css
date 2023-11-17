@@ -1,0 +1,45 @@
+body {
+
+}
+
+.tt{
+	width: 100%;
+	height: 50px
+	background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,180,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+
+
+nav{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	top: 0px;
+	left: 0px;
+	
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	margin-left: 75px;
+	padding: 40px;
+	float: right;
+}
+
+.primero{
+	width: 100%;
+	height: 200px;
+	background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,180,1) 50%, rgba(252,176,69,1) 100%);
+
+	
+
+  }
+
+.titulo{
+	text-align: center;
+	padding: 30px
+
+}

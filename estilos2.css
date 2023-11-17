@@ -1,0 +1,19 @@
+body{
+}
+
+nav{
+	background-color: black;
+	width: 100%;
+	height: 150px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	margin-left: 75px;
+	padding: 60px;
+	float: right;
+}
